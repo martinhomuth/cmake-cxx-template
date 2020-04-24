@@ -1,0 +1,7 @@
+# -*- cmake -*-
+
+set(project_name "cmake-cxx-template")
+set(project_version 1.0.0)
+set(project_description "fancy description")
+set(project_url "https://martinhomuth.de")
+set(project_languages CXX)
